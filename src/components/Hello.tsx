@@ -1,5 +1,6 @@
 
 import * as React from 'react';
+import '../styles/Hello.css';
 
 export interface Props {
   name: string;
